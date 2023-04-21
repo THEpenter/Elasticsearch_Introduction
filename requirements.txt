@@ -1,2 +1,6 @@
-elasticsearch
+elasticsearch==8.7.0
 jupyter
+lxml==4.9.2
+pandas==2.0.0
+requests
+beautifulsoup4==4.12.2
